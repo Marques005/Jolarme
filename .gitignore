@@ -1,0 +1,10 @@
+node_modules
+.next
+.env*
+!.env.example
+npm-debug.log*
+.npm-cache/
+.server-*.log
+response-headers.txt
+jolarme-home.html
+scrape/
